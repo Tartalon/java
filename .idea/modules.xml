@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_logicalOperations/4_logicalOperations.iml" filepath="$PROJECT_DIR$/4_logicalOperations/4_logicalOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_bitwiseLogicalOperations/5_bitwiseLogicalOperations.iml" filepath="$PROJECT_DIR$/5_bitwiseLogicalOperations/5_bitwiseLogicalOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_cycles/6_cycles.iml" filepath="$PROJECT_DIR$/6_cycles/6_cycles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logicalTask/logicalTask.iml" filepath="$PROJECT_DIR$/logicalTask/logicalTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringVar/stringVar.iml" filepath="$PROJECT_DIR$/stringVar/stringVar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tasks.iml" filepath="$PROJECT_DIR$/.idea/tasks.iml" />
+    </modules>
+  </component>
+</project>
