@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/5_bitwiseLogicalOperations/5_bitwiseLogicalOperations.iml" filepath="$PROJECT_DIR$/5_bitwiseLogicalOperations/5_bitwiseLogicalOperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_cycles/6_cycles.iml" filepath="$PROJECT_DIR$/6_cycles/6_cycles.iml" />
       <module fileurl="file://$PROJECT_DIR$/logicalTask/logicalTask.iml" filepath="$PROJECT_DIR$/logicalTask/logicalTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_methods/methods.iml" filepath="$PROJECT_DIR$/7_methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/stringVar/stringVar.iml" filepath="$PROJECT_DIR$/stringVar/stringVar.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tasks.iml" filepath="$PROJECT_DIR$/.idea/tasks.iml" />
     </modules>
