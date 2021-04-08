@@ -29,5 +29,10 @@ public class C16_MinMaxSwap {
             if (i == valueMin) arr[i] = tempMax;
             else if (i == valueMax) arr[i] = tempMin;
         }
+        System.out.println("Max value = " + tempMax);
+        System.out.println("Min value = " + tempMin);
+        for (int a : arr) {
+            System.out.println(a + " ");
+        }
     }
 }
