@@ -1,6 +1,10 @@
+import java.util.Arrays;
+
 public class C01_Arrays {
 
     public static void main(String[] args) {
+
+        int [] arr1 = {1, 2, 3};
 
         int [] arr = new int[5];
 
@@ -9,6 +13,8 @@ public class C01_Arrays {
         arr[2] = 3;
         arr[3] = 4;
         arr[4] = 5;
+
+        System.out.println(Arrays.toString(arr1));
 
         System.out.println(arr[3]);
 
