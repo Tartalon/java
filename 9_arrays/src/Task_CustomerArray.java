@@ -18,6 +18,40 @@ public class Task_CustomerArray {
         System.out.println("Max value this array is " + maxValue);
     }
 
+    static void getMinValue(int[] arr) {
+        int minValue = arr[0];
+        for (int i : arr) {
+            if (i < minValue){
+                minValue = i;
+            }
+        }
+        System.out.println("Min value is " + minValue);
+    }
+
+    static int getSumValues (int[] arr) {
+        int sum = 0;
+        for (int i : arr) {
+            sum += i;
+        }
+        return sum;
+    }
+
+    static void getAverage(int[] arr) {
+        int summ = getSumValues(arr);
+        double average = (double)summ / arr.length;
+
+        System.out.println("Average is " + average);
+    }
+
+    static void getOdd (int[] arr) {
+        System.out.print("Odd is ");
+        for (int i : arr) {
+            if (i % 2 != 0) {
+                System.out.print(i + ", ");
+            }
+        }
+    }
+
     public static void main(String[] args) {
 
         Scanner in = new Scanner (System.in);
@@ -32,5 +66,10 @@ public class Task_CustomerArray {
         System.out.println(Arrays.toString(array));
 
         getMaxValue(array);
+        getMinValue(array);
+        System.out.println("Sum of values is " + getSumValues(array));
+        getAverage(array);
+        getOdd(array);
+
     }
 }
