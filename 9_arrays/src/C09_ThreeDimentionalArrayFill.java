@@ -21,7 +21,7 @@ public class C09_ThreeDimentionalArrayFill {
 
         for (int i = 0; i < 3; i++) {
             for (int k = 0; k < 3; k++) {
-                for (int j = 0; j <3; j++) {
+                for (int j = 0; j < 3; j++) {
                     System.out.print(" " + array[i][k][j]);
                 }
                 System.out.print("\n");
